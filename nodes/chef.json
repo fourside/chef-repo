@@ -3,7 +3,8 @@
      "recipe[package_install]",
      "recipe[vim]",
      "recipe[ruby]",
-     "recipe[screen]"
+     "recipe[screen]", 
+     "recipe[radio]"
   ],
   "automatic": {
     "ipaddress": "chef"
